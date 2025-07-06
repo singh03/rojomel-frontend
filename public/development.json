@@ -1,0 +1,12 @@
+{
+    "host": {
+        "url" : "http://localhost:8000"
+    },
+    "api" : {
+        "url" : "http://localhost:9000",
+        "browserUrl" : "http://localhost:9000"
+    },
+    "env": "development",
+    "platform" : "WEB_SITE",
+    "port" : 8111
+}
